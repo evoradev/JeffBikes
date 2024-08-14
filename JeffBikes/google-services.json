@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62362791927",
+    "project_id": "trabalhofinalpdm-d39ee",
+    "storage_bucket": "trabalhofinalpdm-d39ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62362791927:android:289eacc0afc4573f3808f2",
+        "android_client_info": {
+          "package_name": "com.example.jeffbikes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNFiGTMee8a7hABHUs0rLYUOiZtXXX93s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
